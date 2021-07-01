@@ -4,9 +4,12 @@ id: Ajouter au panier
 price: '800'
 title: Chaussure de fou malade
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  Sneakers à lacets, blanches en cuir lisse et bout rond rehaussées d'un détail
+  en daim noir sur le talon. Larges lacets plats, signature Alexander McQueen
+  sur la languette et le contrefort. Semelle oversize en caoutchouc.Afin de
+  réduire notre impact sur l’environnement ainsi que la consommation de coton,
+  nos sneakers ne seront plus accompagnées d’un dust bag.Matières : 100% Cuir de
+  veau
 default_thumbnail_image: images/plateforme-sneakers-basket-blanc.jpg
 default_original_image: images/charming-birch.jpg
 featured: true
