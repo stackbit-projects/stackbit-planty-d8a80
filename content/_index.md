@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/undercover-nike-ldv-daybreak-1000x750.jpg
     background_image_opacity: 65
     content: >+
       # De vraies et belles sneakers jusqu'à votre porte
