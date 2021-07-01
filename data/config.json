@@ -27,5 +27,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://stackbit-planty-d8a80.netlify.app"
 }
