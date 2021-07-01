@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '1'
-price: '8000000'
+price: '800'
 title: Chaussure de fou malade
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
