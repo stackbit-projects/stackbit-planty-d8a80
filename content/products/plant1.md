@@ -1,6 +1,6 @@
 ---
 layout: product
-id: '1'
+id: Ajouter au panier
 price: '800'
 title: Chaussure de fou malade
 description: >-
