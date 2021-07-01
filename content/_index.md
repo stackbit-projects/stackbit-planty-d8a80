@@ -15,7 +15,7 @@ sections:
       chaussures
 
     actions:
-      - title: See all items
+      - title: Voir tous les articles
         url: /store
         arrow: true
         style: primary
